@@ -31,3 +31,6 @@ const myFunc =function(){
 }//function
 //similary typeof is also a function is used to give specific datatype
 console.log(typeof(myFunc)) //actually object function
+//ALSO A QUESTION ARISES WHERE DOES ALL THIS GET STORED?
+
+//Stack(Primitve), Heap(Reference)
